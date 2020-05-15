@@ -23,4 +23,4 @@ And the output should look something like:<br>
 44 : velociraptor<br>
 48 : lizard<br>
 
-I printed it out like this as was curious to see the order of the results, and how similar they were.  If you are not me, you can probably get rid of the print statement and the counter and get the results in the similar_words set.
+I printed it out like this as was curious to see the order of the results, and how similar they were (exact duplicates are removed).  If you are not me, you can probably get rid of the print statement and the counter and get the results in the similar_words set.
